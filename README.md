@@ -1,4 +1,4 @@
-# GuessTheFlag - (SwiftUI)
+# GuessTheFlag - (SwiftUI #7)
 
 - Gussing game that helps users to learn some of the many flags of the world.
 
